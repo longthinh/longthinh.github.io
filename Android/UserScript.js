@@ -9,7 +9,7 @@
 // @grant        none
 // @run-at       document-start
 // @homepage     https://longthinh.github.io/
-// @downloadURL  https://github.com/longthinh/longthinh.github.io/releases/download/UserScript/UserScript.js
+// @downloadURL  https://longthinh.github.io/releases/download/UserScript/UserScript.js
 // ==/UserScript==
 /// @stats blockers for 6069 domains, injected CSS rules for 0 domains
 {
